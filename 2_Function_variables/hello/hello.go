@@ -4,7 +4,7 @@ import "fmt"
 
 var HelloMessage = "Hello World from Google"
 
-func main() {
+func Hello() {
 	fmt.Println(HelloMessage)
 	otherFunction()
 }
